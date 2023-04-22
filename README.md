@@ -39,4 +39,10 @@ Note: it keeps changing with the whenever the CRUD happens.
 Such as we have an employee table in which the programmer has all access for entities and users have limited access that is sub schema.
 (Such as Super admin, Admin, Vendor, User, etc. Access.)
 
+**Components:**
+- Users (Programmer's or DB administrators DBA, End users)
+- Softwares (Phpmyadmin)
+- Hardwares (pc, harddisks, etc)
+- Data (The collections of database, tables,etc)
+
 
